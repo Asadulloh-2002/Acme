@@ -116,6 +116,8 @@ body {
     width: 400px;
     height: 400px;
     display: block;
+    object-fit: cover;
+    object-position: center;
 }
 
 /* ABOUT US SECTION STYLES */
