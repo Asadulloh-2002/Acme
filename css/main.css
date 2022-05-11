@@ -142,26 +142,28 @@ body {
 }
 .left {
     width: 50%;
+    height: 250px;
     padding: 50px;
     background-color: #4B7BE5;
 }
 .left__title {
     font-family: 'IM Fell English', 'Arial', serif;
     font-size: 25px;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
 }
 .left__text {
     font-size: 18px;
 }
 .right {
     width: 50%;
+    height: 250px;
     padding: 50px;
     background-color: #15133C;
 }
 .right__title {
     font-family: 'IM Fell English', 'Arial', serif;
     font-size: 25px;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
 }
 .right__text {
     font-size: 18px;
